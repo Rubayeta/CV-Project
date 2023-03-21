@@ -1,0 +1,286 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+
+    background-color:darkgrey;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+
+    max-width: 1000px;
+    background-color: gainsboro;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+.profile-img{
+
+    width: 125px;
+    height: 140px;
+    border: 2px solid white;
+    float: left;
+
+}
+
+.header-bio{
+
+    float: left;
+    padding: 25px;
+
+}
+
+.header-bio h3{
+
+    font-size: 17px;
+}
+
+.header-bio h1{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+
+h1, h2, h3, h4, h5, h6{
+
+    color:rgb(1, 54, 54);
+    font-weight: bolder;
+}
+
+.header-contact-info{
+
+    float: right;
+    padding: 25px;
+
+}
+
+.header-contact-info p{
+
+    font-weight: bold;
+
+}
+
+.header-contact-info a{
+
+    text-decoration: none;
+    color: rgb(18, 40, 40);
+    font-weight: bold;
+
+}
+
+.header-contact-info a:hover{
+
+    text-decoration: underline;
+    color: crimson;
+
+}
+
+.clear-div{
+
+    clear: both;
+
+}
+
+hr{
+
+    border: 3px solid black;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+
+.left-div{
+    
+    width: 30%;
+    float: left;
+
+}
+
+.right-div{
+    
+    width: 70%;
+    float: left;
+    font-weight: bold;
+    
+
+}
+
+.left-div1{
+
+    width: 30%;
+    float: left;
+
+}
+
+.right-div1{
+
+    width: 70%;
+    float: left;
+    font-weight: bold;
+
+}
+
+.right-div1 h2{
+
+    text-decoration: underline;
+
+}
+
+.left-div2{
+
+    width: 30%;
+    float: left;
+
+}
+
+.right-div2{
+
+    width: 70%;
+    float: left;
+    font-weight: bold;
+    
+}
+
+.right-div2 li{
+
+    list-style-type: none;
+    font-weight: bold;
+}
+
+
+.left-div3{
+
+    width: 30%;
+    float: left;
+
+}
+
+.right-div3{
+
+    width: 70%;
+    float: left;
+    font-weight: bold;
+    
+}
+
+.right-div3 table, tr, td, th{
+
+    border: 1px solid black;
+    text-align: center;
+    width: 50%;
+    
+}
+
+.left-div4{
+
+    width: 30%;
+    float: left;
+    
+}
+
+
+.right-div4{
+
+    width: 70%;
+    float: left;
+    font-weight: bold;
+    
+}
+
+.left-div5{
+
+    width: 30%;
+    float: left;
+    
+}
+
+
+
+.right-div5{
+
+    width: 70%;
+    float: left;
+    font-weight: bolder;
+    
+}
+
+
+.left-div6{
+
+    width: 30%;
+    float: left;
+    
+}
+
+
+
+.right-div6{
+
+    width: 70%;
+    float: left;
+    font-weight: bolder;
+    
+}
+
+
+.right-div6 a{
+
+    text-decoration:none;
+    color:rgb(21, 25, 26);
+
+}
+
+.right-div6 a:hover{
+
+    text-decoration:underline;
+    color: crimson;
+
+}
+
+
+.left-div ul, li{
+
+    list-style-type: none;
+    
+}
+
+
+.footer-container{
+
+    background-color: gainsboro;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.footer-container a{
+
+    padding: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    color: black;
+    
+
+}
+
+.footer-container a:hover{
+
+    text-decoration: none;
+    color: crimson;
+
+}
+
+.footer-container p{
+
+    margin-top: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
